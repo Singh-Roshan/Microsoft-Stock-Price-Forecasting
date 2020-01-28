@@ -1,1 +1,7 @@
-# Microsoft-Stock-Price-Forecasting
+# **Microsoft-Stock-Price-Forecasting**
+
+•	Performed data scraping to visualize the trends, seasonality, checked for stationarity, parameters with ACF, and PACF. <BR>
+•	Implemented ARIMA, SES, Holt’s Winter’s method. SES model fit the data set perfectly, because of its 1.09 RMSE score.
+
+
+<img src="https://user-images.githubusercontent.com/47465548/73311501-97a1a400-41f4-11ea-8819-e84d9f49aca0.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311515-a38d6600-41f4-11ea-8dae-fde4636ec4f1.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311530-adaf6480-41f4-11ea-8a18-7995a2714cd2.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311544-ba33bd00-41f4-11ea-852b-e4b523c3b499.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311602-e3ece400-41f4-11ea-8075-8d83b1d7c7d4.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311649-0252df80-41f5-11ea-90a9-8f68f8165697.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311670-0d0d7480-41f5-11ea-8d3d-0cce33b4747c.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311699-1860a000-41f5-11ea-9d28-307ec1cb1b1f.png" width="90%"></img> <img src="https://user-images.githubusercontent.com/47465548/73311713-21517180-41f5-11ea-8405-fbf531685e17.png" width="90%"></img> 
